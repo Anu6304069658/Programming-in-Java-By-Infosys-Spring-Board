@@ -1,3 +1,4 @@
+//Data Types and Operators - Exercise 1
 public class DataTypes {
     public static void main(String[] args) {
 		int principal=5000;
@@ -8,3 +9,4 @@ public class DataTypes {
         System.out.println(simpleInterest);
 	}
 }
+
